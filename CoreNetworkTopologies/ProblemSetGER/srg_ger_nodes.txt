@@ -1,0 +1,3 @@
+SRG1 Bremen Hannover Hamburg
+SRG2 Berlin Leipzig
+SRG3 Karlsruhe Stuttgart

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="Latitude" attr.type="double" for="node" id="d1" />
+  <key attr.name="Longitude" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Budapest">
+      <data key="d0">19.02</data>
+      <data key="d1">47.29</data>
+    </node>
+    <node id="Brussels">
+      <data key="d0">4.2</data>
+      <data key="d1">50.49</data>
+    </node>
+    <node id="Barcelona">
+      <data key="d0">2.07</data>
+      <data key="d1">41.22</data>
+    </node>
+    <node id="Zurich">
+      <data key="d0">8.32</data>
+      <data key="d1">47.22</data>
+    </node>
+    <node id="Berlin">
+      <data key="d0">13.21</data>
+      <data key="d1">52.31</data>
+    </node>
+    <node id="Madrid">
+      <data key="d0">-3.42</data>
+      <data key="d1">40.25</data>
+    </node>
+    <node id="Glasgow">
+      <data key="d0">-4.16</data>
+      <data key="d1">55.51</data>
+    </node>
+    <node id="Belgrade">
+      <data key="d0">20.25</data>
+      <data key="d1">44.47</data>
+    </node>
+    <node id="Copenhagen">
+      <data key="d0">12.32</data>
+      <data key="d1">55.41</data>
+    </node>
+    <node id="Strasbourg">
+      <data key="d0">7.45</data>
+      <data key="d1">48.35</data>
+    </node>
+    <node id="Warsaw">
+      <data key="d0">20.59</data>
+      <data key="d1">52.14</data>
+    </node>
+    <node id="Hamburg">
+      <data key="d0">10.0</data>
+      <data key="d1">53.33</data>
+    </node>
+    <node id="Lyon">
+      <data key="d0">4.49</data>
+      <data key="d1">45.43</data>
+    </node>
+    <node id="Athens">
+      <data key="d0">23.42</data>
+      <data key="d1">37.58</data>
+    </node>
+    <node id="London">
+      <data key="d0">-0.07</data>
+      <data key="d1">51.3</data>
+    </node>
+    <node id="Munich">
+      <data key="d0">11.33</data>
+      <data key="d1">48.07</data>
+    </node>
+    <node id="Paris">
+      <data key="d0">2.2</data>
+      <data key="d1">48.51</data>
+    </node>
+    <node id="Rome">
+      <data key="d0">12.29</data>
+      <data key="d1">41.53</data>
+    </node>
+    <node id="Amsterdam">
+      <data key="d0">4.51</data>
+      <data key="d1">52.2</data>
+    </node>
+    <node id="Zagreb">
+      <data key="d0">15.57</data>
+      <data key="d1">45.48</data>
+    </node>
+    <node id="Frankfurt">
+      <data key="d0">8.38</data>
+      <data key="d1">50.07</data>
+    </node>
+    <node id="Oslo">
+      <data key="d0">10.45</data>
+      <data key="d1">59.54</data>
+    </node>
+    <node id="Vienna">
+      <data key="d0">16.21</data>
+      <data key="d1">48.12</data>
+    </node>
+    <node id="Milan">
+      <data key="d0">9.11</data>
+      <data key="d1">45.28</data>
+    </node>
+    <node id="Bordeaux">
+      <data key="d0">-0.35</data>
+      <data key="d1">44.51</data>
+    </node>
+    <node id="Stockholm">
+      <data key="d0">18.03</data>
+      <data key="d1">59.19</data>
+    </node>
+    <node id="Prague">
+      <data key="d0">14.25</data>
+      <data key="d1">50.04</data>
+    </node>
+    <node id="Dublin">
+      <data key="d0">-6.15</data>
+      <data key="d1">53.21</data>
+    </node>
+    <edge source="Budapest" target="Belgrade" />
+    <edge source="Budapest" target="Warsaw" />
+    <edge source="Budapest" target="Prague" />
+    <edge source="Brussels" target="Amsterdam" />
+    <edge source="Brussels" target="Paris" />
+    <edge source="Brussels" target="Frankfurt" />
+    <edge source="Barcelona" target="Madrid" />
+    <edge source="Barcelona" target="Lyon" />
+    <edge source="Zurich" target="Milan" />
+    <edge source="Zurich" target="Lyon" />
+    <edge source="Zurich" target="Strasbourg" />
+    <edge source="Berlin" target="Munich" />
+    <edge source="Berlin" target="Warsaw" />
+    <edge source="Berlin" target="Copenhagen" />
+    <edge source="Berlin" target="Prague" />
+    <edge source="Berlin" target="Hamburg" />
+    <edge source="Madrid" target="Bordeaux" />
+    <edge source="Glasgow" target="Amsterdam" />
+    <edge source="Glasgow" target="Dublin" />
+    <edge source="Belgrade" target="Zagreb" />
+    <edge source="Belgrade" target="Athens" />
+    <edge source="Copenhagen" target="Oslo" />
+    <edge source="Strasbourg" target="Paris" />
+    <edge source="Strasbourg" target="Frankfurt" />
+    <edge source="Warsaw" target="Stockholm" />
+    <edge source="Hamburg" target="Amsterdam" />
+    <edge source="Hamburg" target="Frankfurt" />
+    <edge source="Lyon" target="Paris" />
+    <edge source="Athens" target="Rome" />
+    <edge source="London" target="Amsterdam" />
+    <edge source="London" target="Paris" />
+    <edge source="London" target="Dublin" />
+    <edge source="Munich" target="Milan" />
+    <edge source="Munich" target="Vienna" />
+    <edge source="Munich" target="Frankfurt" />
+    <edge source="Paris" target="Bordeaux" />
+    <edge source="Rome" target="Milan" />
+    <edge source="Rome" target="Zagreb" />
+    <edge source="Zagreb" target="Vienna" />
+    <edge source="Oslo" target="Stockholm" />
+    <edge source="Vienna" target="Prague" />
+  </graph>
+</graphml>

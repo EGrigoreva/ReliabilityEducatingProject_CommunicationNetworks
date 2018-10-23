@@ -1,0 +1,6 @@
+Seattle Houston 8
+Seattle Washington 8
+SaltLakeCity Washington 8
+Atlanta SanFrancisco 2
+Atlanta Washington 2
+SaltLakeCity Houston 2 

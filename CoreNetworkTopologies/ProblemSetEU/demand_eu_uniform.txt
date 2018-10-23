@@ -1,0 +1,6 @@
+Bordeaux Athens 5
+Madrid Stockholm 5
+London Munich 5
+Copenhagen Barcelona 5
+Oslo Rome 5
+Paris Warsaw 5

@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="Latitude" attr.type="double" for="node" id="d1" />
+  <key attr.name="Longitude" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="SanFrancisco">
+      <data key="d0">-122.38</data>
+      <data key="d1">37.62</data>
+    </node>
+    <node id="Washington">
+      <data key="d0">-77.04</data>
+      <data key="d1">38.85</data>
+    </node>
+    <node id="Boston">
+      <data key="d0">-71.03</data>
+      <data key="d1">42.37</data>
+    </node>
+    <node id="Albany">
+      <data key="d0">-73.8</data>
+      <data key="d1">42.75</data>
+    </node>
+    <node id="Charlotte">
+      <data key="d0">-80.93</data>
+      <data key="d1">35.22</data>
+    </node>
+    <node id="Seattle">
+      <data key="d0">-122.3</data>
+      <data key="d1">47.45</data>
+    </node>
+    <node id="LasVegas">
+      <data key="d0">-115.17</data>
+      <data key="d1">36.08</data>
+    </node>
+    <node id="Tulsa">
+      <data key="d0">-95.9</data>
+      <data key="d1">36.2</data>
+    </node>
+    <node id="KansasCity">
+      <data key="d0">-94.72</data>
+      <data key="d1">39.32</data>
+    </node>
+    <node id="Denver">
+      <data key="d0">-104.87</data>
+      <data key="d1">39.75</data>
+    </node>
+    <node id="ElPaso">
+      <data key="d0">-106.4</data>
+      <data key="d1">31.8</data>
+    </node>
+    <node id="Atlanta">
+      <data key="d0">-84.42</data>
+      <data key="d1">33.65</data>
+    </node>
+    <node id="LosAngeles">
+      <data key="d0">-118.4</data>
+      <data key="d1">33.93</data>
+    </node>
+    <node id="NewOrleans">
+      <data key="d0">-90.02</data>
+      <data key="d1">29.83</data>
+    </node>
+    <node id="Indianapolis">
+      <data key="d0">-86.27</data>
+      <data key="d1">39.65</data>
+    </node>
+    <node id="Miami">
+      <data key="d0">-80.28</data>
+      <data key="d1">25.82</data>
+    </node>
+    <node id="Chicago">
+      <data key="d0">-87.9</data>
+      <data key="d1">41.98</data>
+    </node>
+    <node id="Houston">
+      <data key="d0">-95.35</data>
+      <data key="d1">29.97</data>
+    </node>
+    <node id="SaltLakeCity">
+      <data key="d0">-111.97</data>
+      <data key="d1">40.78</data>
+    </node>
+    <node id="Nashville">
+      <data key="d0">-86.68</data>
+      <data key="d1">36.12</data>
+    </node>
+    <node id="Dallas">
+      <data key="d0">-96.85</data>
+      <data key="d1">32.85</data>
+    </node>
+    <node id="Detroit">
+      <data key="d0">-83.02</data>
+      <data key="d1">42.42</data>
+    </node>
+    <node id="Minneapolis">
+      <data key="d0">-93.38</data>
+      <data key="d1">45.07</data>
+    </node>
+    <node id="NewYork">
+      <data key="d0">-73.78</data>
+      <data key="d1">40.65</data>
+    </node>
+    <node id="Cleveland">
+      <data key="d0">-81.68</data>
+      <data key="d1">41.52</data>
+    </node>
+    <node id="StLouis">
+      <data key="d0">-90.37</data>
+      <data key="d1">38.75</data>
+    </node>
+    <edge source="SanFrancisco" target="LosAngeles" />
+    <edge source="SanFrancisco" target="SaltLakeCity" />
+    <edge source="SanFrancisco" target="Seattle" />
+    <edge source="Washington" target="Charlotte" />
+    <edge source="Washington" target="NewYork" />
+    <edge source="Washington" target="Cleveland" />
+    <edge source="Boston" target="NewYork" />
+    <edge source="Boston" target="Albany" />
+    <edge source="Albany" target="NewYork" />
+    <edge source="Albany" target="Cleveland" />
+    <edge source="Charlotte" target="Atlanta" />
+    <edge source="Charlotte" target="Nashville" />
+    <edge source="Seattle" target="SaltLakeCity" />
+    <edge source="LasVegas" target="SaltLakeCity" />
+    <edge source="LasVegas" target="ElPaso" />
+    <edge source="LasVegas" target="LosAngeles" />
+    <edge source="Tulsa" target="KansasCity" />
+    <edge source="Tulsa" target="Dallas" />
+    <edge source="Tulsa" target="StLouis" />
+    <edge source="KansasCity" target="Minneapolis" />
+    <edge source="KansasCity" target="Denver" />
+    <edge source="KansasCity" target="StLouis" />
+    <edge source="Denver" target="Dallas" />
+    <edge source="Denver" target="SaltLakeCity" />
+    <edge source="ElPaso" target="Dallas" />
+    <edge source="ElPaso" target="Houston" />
+    <edge source="ElPaso" target="LosAngeles" />
+    <edge source="Atlanta" target="Nashville" />
+    <edge source="Atlanta" target="Miami" />
+    <edge source="Atlanta" target="NewOrleans" />
+    <edge source="NewOrleans" target="Houston" />
+    <edge source="NewOrleans" target="Miami" />
+    <edge source="Indianapolis" target="Cleveland" />
+    <edge source="Indianapolis" target="Nashville" />
+    <edge source="Indianapolis" target="Chicago" />
+    <edge source="Indianapolis" target="StLouis" />
+    <edge source="Chicago" target="Minneapolis" />
+    <edge source="Chicago" target="Detroit" />
+    <edge source="Chicago" target="StLouis" />
+    <edge source="Houston" target="Dallas" />
+    <edge source="Nashville" target="Dallas" />
+    <edge source="Detroit" target="Cleveland" />
+  </graph>
+</graphml>

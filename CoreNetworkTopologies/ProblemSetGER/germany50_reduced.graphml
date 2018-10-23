@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="Latitude" attr.type="double" for="node" id="d1" />
+  <key attr.name="Longitude" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Wesel">
+      <data key="d0">6.37</data>
+      <data key="d1">51.39</data>
+    </node>
+    <node id="Stuttgart">
+      <data key="d0">9.1</data>
+      <data key="d1">48.74</data>
+    </node>
+    <node id="Kaiserslautern">
+      <data key="d0">7.75</data>
+      <data key="d1">49.43</data>
+    </node>
+    <node id="Muenster">
+      <data key="d0">7.6</data>
+      <data key="d1">51.97</data>
+    </node>
+    <node id="Koblenz">
+      <data key="d0">7.52</data>
+      <data key="d1">50.4</data>
+    </node>
+    <node id="Duesseldorf">
+      <data key="d0">6.77</data>
+      <data key="d1">51.25</data>
+    </node>
+    <node id="Bremen">
+      <data key="d0">8.85</data>
+      <data key="d1">53.11</data>
+    </node>
+    <node id="Essen">
+      <data key="d0">7.02</data>
+      <data key="d1">51.46</data>
+    </node>
+    <node id="Aachen">
+      <data key="d0">6.04</data>
+      <data key="d1">50.76</data>
+    </node>
+    <node id="Frankfurt">
+      <data key="d0">8.71</data>
+      <data key="d1">50.12</data>
+    </node>
+    <node id="Konstanz">
+      <data key="d0">9.18</data>
+      <data key="d1">47.66</data>
+    </node>
+    <node id="Bremerhaven">
+      <data key="d0">8.58</data>
+      <data key="d1">53.54</data>
+    </node>
+    <node id="Passau">
+      <data key="d0">13.46</data>
+      <data key="d1">48.57</data>
+    </node>
+    <node id="Wuerzburg">
+      <data key="d0">9.97</data>
+      <data key="d1">49.78</data>
+    </node>
+    <node id="Greifswald">
+      <data key="d0">13.4</data>
+      <data key="d1">54.09</data>
+    </node>
+    <node id="Schwerin">
+      <data key="d0">11.45</data>
+      <data key="d1">53.55</data>
+    </node>
+    <node id="Siegen">
+      <data key="d0">8.03</data>
+      <data key="d1">50.91</data>
+    </node>
+    <node id="Giessen">
+      <data key="d0">8.67</data>
+      <data key="d1">50.57</data>
+    </node>
+    <node id="Koeln">
+      <data key="d0">6.87</data>
+      <data key="d1">50.94</data>
+    </node>
+    <node id="Berlin">
+      <data key="d0">13.39</data>
+      <data key="d1">52.52</data>
+    </node>
+    <node id="Regensburg">
+      <data key="d0">12.09</data>
+      <data key="d1">49.0</data>
+    </node>
+    <node id="Mannheim">
+      <data key="d0">8.49</data>
+      <data key="d1">49.49</data>
+    </node>
+    <node id="Norden">
+      <data key="d0">7.21</data>
+      <data key="d1">53.6</data>
+    </node>
+    <node id="Erfurt">
+      <data key="d0">11.04</data>
+      <data key="d1">50.98</data>
+    </node>
+    <node id="Nuernberg">
+      <data key="d0">11.03</data>
+      <data key="d1">49.57</data>
+    </node>
+    <node id="Kassel">
+      <data key="d0">9.51</data>
+      <data key="d1">51.32</data>
+    </node>
+    <node id="Leipzig">
+      <data key="d0">12.38</data>
+      <data key="d1">51.34</data>
+    </node>
+    <node id="Trier">
+      <data key="d0">6.68</data>
+      <data key="d1">49.75</data>
+    </node>
+    <node id="Augsburg">
+      <data key="d0">10.9</data>
+      <data key="d1">48.33</data>
+    </node>
+    <node id="Braunschweig">
+      <data key="d0">10.55</data>
+      <data key="d1">52.28</data>
+    </node>
+    <node id="Hannover">
+      <data key="d0">9.72</data>
+      <data key="d1">52.38</data>
+    </node>
+    <node id="Kiel">
+      <data key="d0">10.12</data>
+      <data key="d1">54.34</data>
+    </node>
+    <node id="Chemnitz">
+      <data key="d0">12.93</data>
+      <data key="d1">50.84</data>
+    </node>
+    <node id="Saarbruecken">
+      <data key="d0">7.03</data>
+      <data key="d1">49.23</data>
+    </node>
+    <node id="Flensburg">
+      <data key="d0">9.45</data>
+      <data key="d1">54.77</data>
+    </node>
+    <node id="Freiburg">
+      <data key="d0">7.8</data>
+      <data key="d1">47.98</data>
+    </node>
+    <node id="Magdeburg">
+      <data key="d0">11.64</data>
+      <data key="d1">52.14</data>
+    </node>
+    <node id="Hamburg">
+      <data key="d0">9.99</data>
+      <data key="d1">53.57</data>
+    </node>
+    <node id="Oldenburg">
+      <data key="d0">8.21</data>
+      <data key="d1">53.11</data>
+    </node>
+    <node id="Osnabrueck">
+      <data key="d0">8.03</data>
+      <data key="d1">52.28</data>
+    </node>
+    <node id="Dortmund">
+      <data key="d0">7.45</data>
+      <data key="d1">51.51</data>
+    </node>
+    <node id="Fulda">
+      <data key="d0">9.69</data>
+      <data key="d1">50.56</data>
+    </node>
+    <node id="Ulm">
+      <data key="d0">9.99</data>
+      <data key="d1">48.4</data>
+    </node>
+    <node id="Bayreuth">
+      <data key="d0">11.59</data>
+      <data key="d1">49.93</data>
+    </node>
+    <node id="Darmstadt">
+      <data key="d0">8.65</data>
+      <data key="d1">49.89</data>
+    </node>
+    <node id="Kempten">
+      <data key="d0">10.32</data>
+      <data key="d1">47.72</data>
+    </node>
+    <node id="Muenchen">
+      <data key="d0">11.57</data>
+      <data key="d1">48.15</data>
+    </node>
+    <node id="Bielefeld">
+      <data key="d0">8.5</data>
+      <data key="d1">52.04</data>
+    </node>
+    <node id="Dresden">
+      <data key="d0">13.73</data>
+      <data key="d1">51.03</data>
+    </node>
+    <node id="Karlsruhe">
+      <data key="d0">8.41</data>
+      <data key="d1">49.01</data>
+    </node>
+    <edge source="Wesel" target="Aachen" />
+    <edge source="Wesel" target="Essen" />
+    <edge source="Wesel" target="Norden" />
+    <edge source="Stuttgart" target="Konstanz" />
+    <edge source="Stuttgart" target="Ulm" />
+    <edge source="Stuttgart" target="Wuerzburg" />
+    <edge source="Stuttgart" target="Karlsruhe" />
+    <edge source="Kaiserslautern" target="Koblenz" />
+    <edge source="Kaiserslautern" target="Saarbruecken" />
+    <edge source="Kaiserslautern" target="Karlsruhe" />
+    <edge source="Muenster" target="Osnabrueck" />
+    <edge source="Muenster" target="Bielefeld" />
+    <edge source="Muenster" target="Dortmund" />
+    <edge source="Koblenz" target="Koeln" />
+    <edge source="Koblenz" target="Trier" />
+    <edge source="Koblenz" target="Frankfurt" />
+    <edge source="Koblenz" target="Siegen" />
+    <edge source="Duesseldorf" target="Koeln" />
+    <edge source="Duesseldorf" target="Essen" />
+    <edge source="Bremen" target="Bremerhaven" />
+    <edge source="Bremen" target="Oldenburg" />
+    <edge source="Bremen" target="Hannover" />
+    <edge source="Essen" target="Dortmund" />
+    <edge source="Aachen" target="Koeln" />
+    <edge source="Aachen" target="Trier" />
+    <edge source="Frankfurt" target="Fulda" />
+    <edge source="Frankfurt" target="Darmstadt" />
+    <edge source="Frankfurt" target="Giessen" />
+    <edge source="Konstanz" target="Kempten" />
+    <edge source="Konstanz" target="Freiburg" />
+    <edge source="Bremerhaven" target="Flensburg" />
+    <edge source="Passau" target="Regensburg" />
+    <edge source="Passau" target="Muenchen" />
+    <edge source="Wuerzburg" target="Nuernberg" />
+    <edge source="Wuerzburg" target="Erfurt" />
+    <edge source="Wuerzburg" target="Fulda" />
+    <edge source="Greifswald" target="Berlin" />
+    <edge source="Greifswald" target="Schwerin" />
+    <edge source="Schwerin" target="Hamburg" />
+    <edge source="Schwerin" target="Kiel" />
+    <edge source="Schwerin" target="Berlin" />
+    <edge source="Schwerin" target="Magdeburg" />
+    <edge source="Siegen" target="Dortmund" />
+    <edge source="Siegen" target="Giessen" />
+    <edge source="Giessen" target="Fulda" />
+    <edge source="Berlin" target="Dresden" />
+    <edge source="Berlin" target="Magdeburg" />
+    <edge source="Regensburg" target="Nuernberg" />
+    <edge source="Mannheim" target="Darmstadt" />
+    <edge source="Mannheim" target="Karlsruhe" />
+    <edge source="Norden" target="Oldenburg" />
+    <edge source="Erfurt" target="Kassel" />
+    <edge source="Erfurt" target="Leipzig" />
+    <edge source="Erfurt" target="Chemnitz" />
+    <edge source="Nuernberg" target="Muenchen" />
+    <edge source="Nuernberg" target="Bayreuth" />
+    <edge source="Kassel" target="Fulda" />
+    <edge source="Kassel" target="Braunschweig" />
+    <edge source="Kassel" target="Dortmund" />
+    <edge source="Leipzig" target="Magdeburg" />
+    <edge source="Leipzig" target="Dresden" />
+    <edge source="Trier" target="Saarbruecken" />
+    <edge source="Augsburg" target="Ulm" />
+    <edge source="Augsburg" target="Muenchen" />
+    <edge source="Braunschweig" target="Bielefeld" />
+    <edge source="Braunschweig" target="Magdeburg" />
+    <edge source="Braunschweig" target="Hannover" />
+    <edge source="Hannover" target="Hamburg" />
+    <edge source="Hannover" target="Osnabrueck" />
+    <edge source="Kiel" target="Hamburg" />
+    <edge source="Kiel" target="Flensburg" />
+    <edge source="Chemnitz" target="Bayreuth" />
+    <edge source="Chemnitz" target="Dresden" />
+    <edge source="Saarbruecken" target="Karlsruhe" />
+    <edge source="Freiburg" target="Karlsruhe" />
+    <edge source="Oldenburg" target="Osnabrueck" />
+    <edge source="Kempten" target="Muenchen" />
+  </graph>
+</graphml>

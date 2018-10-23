@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="Latitude" attr.type="double" for="node" id="d1" />
+  <key attr.name="Longitude" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Ithaca">
+      <data key="d0">-76.3</data>
+      <data key="d1">42.26</data>
+    </node>
+    <node id="Lincoln">
+      <data key="d0">-96.42</data>
+      <data key="d1">40.47</data>
+    </node>
+    <node id="Boulder">
+      <data key="d0">-105.16</data>
+      <data key="d1">40.0</data>
+    </node>
+    <node id="Pittsburgh">
+      <data key="d0">-79.58</data>
+      <data key="d1">40.26</data>
+    </node>
+    <node id="Princeton">
+      <data key="d0">-74.39</data>
+      <data key="d1">40.21</data>
+    </node>
+    <node id="Seattle">
+      <data key="d0">-122.24</data>
+      <data key="d1">47.33</data>
+    </node>
+    <node id="Urbana-Champaign">
+      <data key="d0">-88.14</data>
+      <data key="d1">40.06</data>
+    </node>
+    <node id="SaltLakeCity">
+      <data key="d0">-111.55</data>
+      <data key="d1">40.39</data>
+    </node>
+    <node id="SanFrancisco">
+      <data key="d0">-122.07</data>
+      <data key="d1">37.25</data>
+    </node>
+    <node id="Washington">
+      <data key="d0">-77.02</data>
+      <data key="d1">38.52</data>
+    </node>
+    <node id="Ann-Arbor">
+      <data key="d0">-83.43</data>
+      <data key="d1">42.16</data>
+    </node>
+    <node id="San-Diego">
+      <data key="d0">-117.08</data>
+      <data key="d1">32.42</data>
+    </node>
+    <node id="Houston">
+      <data key="d0">-95.21</data>
+      <data key="d1">29.45</data>
+    </node>
+    <node id="Atlanta">
+      <data key="d0">-84.23</data>
+      <data key="d1">33.44</data>
+    </node>
+    <edge source="Ithaca" target="Ann-Arbor" />
+    <edge source="Ithaca" target="Pittsburgh" />
+    <edge source="Ithaca" target="Washington" />
+    <edge source="Lincoln" target="Urbana-Champaign" />
+    <edge source="Lincoln" target="Boulder" />
+    <edge source="Boulder" target="SaltLakeCity" />
+    <edge source="Boulder" target="Houston" />
+    <edge source="Pittsburgh" target="Urbana-Champaign" />
+    <edge source="Pittsburgh" target="Atlanta" />
+    <edge source="Pittsburgh" target="Princeton" />
+    <edge source="Princeton" target="Ann-Arbor" />
+    <edge source="Princeton" target="Washington" />
+    <edge source="Seattle" target="Urbana-Champaign" />
+    <edge source="Seattle" target="San-Diego" />
+    <edge source="Seattle" target="SanFrancisco" />
+    <edge source="SaltLakeCity" target="Ann-Arbor" />
+    <edge source="SaltLakeCity" target="SanFrancisco" />
+    <edge source="SanFrancisco" target="San-Diego" />
+    <edge source="Washington" target="Houston" />
+    <edge source="San-Diego" target="Houston" />
+    <edge source="Houston" target="Atlanta" />
+  </graph>
+</graphml>

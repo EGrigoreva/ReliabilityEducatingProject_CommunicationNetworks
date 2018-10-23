@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="Latitude" attr.type="double" for="node" id="d1" />
+  <key attr.name="Longitude" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Stuttgart">
+      <data key="d0">9.12</data>
+      <data key="d1">48.73</data>
+    </node>
+    <node id="Dortmund">
+      <data key="d0">7.48</data>
+      <data key="d1">51.51</data>
+    </node>
+    <node id="Leipzig">
+      <data key="d0">12.38</data>
+      <data key="d1">51.34</data>
+    </node>
+    <node id="Berlin">
+      <data key="d0">13.48</data>
+      <data key="d1">52.52</data>
+    </node>
+    <node id="Ulm">
+      <data key="d0">9.99</data>
+      <data key="d1">48.4</data>
+    </node>
+    <node id="Hannover">
+      <data key="d0">9.8</data>
+      <data key="d1">52.39</data>
+    </node>
+    <node id="Duesseldorf">
+      <data key="d0">6.78</data>
+      <data key="d1">51.22</data>
+    </node>
+    <node id="Norden">
+      <data key="d0">7.21</data>
+      <data key="d1">53.6</data>
+    </node>
+    <node id="Koeln">
+      <data key="d0">7.01</data>
+      <data key="d1">50.92</data>
+    </node>
+    <node id="Essen">
+      <data key="d0">7.0</data>
+      <data key="d1">51.44</data>
+    </node>
+    <node id="Frankfurt">
+      <data key="d0">8.66</data>
+      <data key="d1">50.14</data>
+    </node>
+    <node id="Muenchen">
+      <data key="d0">11.55</data>
+      <data key="d1">48.15</data>
+    </node>
+    <node id="Hamburg">
+      <data key="d0">10.08</data>
+      <data key="d1">53.55</data>
+    </node>
+    <node id="Nuernberg">
+      <data key="d0">11.08</data>
+      <data key="d1">49.45</data>
+    </node>
+    <node id="Karlsruhe">
+      <data key="d0">8.41</data>
+      <data key="d1">49.01</data>
+    </node>
+    <node id="Bremen">
+      <data key="d0">8.8</data>
+      <data key="d1">53.08</data>
+    </node>
+    <node id="Mannheim">
+      <data key="d0">8.49</data>
+      <data key="d1">49.49</data>
+    </node>
+    <edge source="Stuttgart" target="Nuernberg" />
+    <edge source="Stuttgart" target="Ulm" />
+    <edge source="Stuttgart" target="Karlsruhe" />
+    <edge source="Dortmund" target="Koeln" />
+    <edge source="Dortmund" target="Essen" />
+    <edge source="Dortmund" target="Norden" />
+    <edge source="Dortmund" target="Hannover" />
+    <edge source="Leipzig" target="Berlin" />
+    <edge source="Leipzig" target="Nuernberg" />
+    <edge source="Leipzig" target="Hannover" />
+    <edge source="Leipzig" target="Frankfurt" />
+    <edge source="Berlin" target="Hamburg" />
+    <edge source="Berlin" target="Hannover" />
+    <edge source="Ulm" target="Muenchen" />
+    <edge source="Hannover" target="Bremen" />
+    <edge source="Hannover" target="Hamburg" />
+    <edge source="Hannover" target="Frankfurt" />
+    <edge source="Duesseldorf" target="Koeln" />
+    <edge source="Duesseldorf" target="Essen" />
+    <edge source="Norden" target="Bremen" />
+    <edge source="Koeln" target="Frankfurt" />
+    <edge source="Frankfurt" target="Nuernberg" />
+    <edge source="Frankfurt" target="Mannheim" />
+    <edge source="Muenchen" target="Nuernberg" />
+    <edge source="Hamburg" target="Bremen" />
+    <edge source="Karlsruhe" target="Mannheim" />
+  </graph>
+</graphml>

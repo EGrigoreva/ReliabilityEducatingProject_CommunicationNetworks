@@ -1,0 +1,6 @@
+Bremen Stuttgart 9
+Hannover Karlsruhe 7
+Hamburg Muenchen 5
+Frankfurt Berlin 5
+Duesseldorf Leipzig 3
+Dortmund Nuernberg 1

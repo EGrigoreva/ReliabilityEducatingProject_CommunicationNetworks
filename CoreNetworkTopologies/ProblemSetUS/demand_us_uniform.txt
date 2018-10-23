@@ -1,0 +1,6 @@
+Seattle Houston 5
+Seattle Washington 5
+SaltLakeCity Washington 5
+Atlanta SanFrancisco 5
+Atlanta Washington 5
+SaltLakeCity Houston 5
