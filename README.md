@@ -28,17 +28,13 @@ ArcGIS requires a payed license, Gurobi has a free scientific license.
 Installation guidlines are in the file HowTos.pdf
 
 
-
-
 ## Description
 
 
 The students get a ready for work package with all the needed input data as core network topologies and access network topologies.
 
 
-
 **Core network** topologies are imported from [SNDlib](http://sndlib.zib.de). They are real examples of the existing core topologies that are imported to ArcGIS and visualized there. For every original core network topology there is a slightly changed one by deleting or adding some links. There are four demands distributions.
-
 
 
 There are five protection options:
@@ -74,13 +70,9 @@ The analysis can be as follows:
 
 - Influence of the splitting ratio of the Power Splitter. The proposed options are 16, 32, 64, based on the state-of-the-art implementations.
 
-- Disjoint shortest path protection vs. ring protection
-
-.
+- Disjoint shortest path protection vs. ring protection.
 
 The results include the details on the fiber lengths.
-
-
 
 
 ## Data 
